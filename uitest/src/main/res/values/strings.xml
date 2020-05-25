@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">UITest</string>
+    <!--    唯一标识性id,可以直接调用-->
+    <item name="Tag_APP" type="id" />
+    <item name="Tag_Book" type="id" />
+    <string name="menu_1">点击出现选项菜单</string>
+    <string name="action_settings">Settings</string>
+    <string name="new_game">菜单1</string>
+    <string name="help">菜单2</string>
+    <string name="font_blue">蓝色</string>
+    <string name="font_green">绿色</string>
+    <string name="font_red">红色</string>
+</resources>

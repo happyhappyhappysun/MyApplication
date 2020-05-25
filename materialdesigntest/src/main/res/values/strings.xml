@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Fruits</string>
+    <string name="partner_luffy">partner_luffy</string>
+    <string name="partner_zoro">partner_zoro</string>
+    <string name="partner_sanji">partner_sanji</string>
+    <string name="partner_ace">partner_ace</string>
+    <string name="partner_law">partner_law</string>
+    <string name="partner_nami">partner_nami</string>
+    <string name="partner_robin">partner_robin</string>
+    <string name="partner_vivi">partner_vivi</string>
+    <string name="partner_rebecca">partner_rebecca</string>
+    <string name="partner_hancock">partner_hancock</string>
+</resources>
